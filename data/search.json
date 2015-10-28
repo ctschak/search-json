@@ -1,0 +1,35 @@
+{
+  "took": 2,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "failed": 0
+  },
+  "hits": {
+    "total": 2,
+    "max_score": 0.643841,
+    "hits": [
+      {
+        "_index": "eng_chn_keyword",
+        "_type": "page",
+        "_id": "okQffSqHRYyk2wj85dyOcA",
+        "_score": 0.643841,
+        "_source": {
+          "english_title": "red apple",
+          "chinese_title": "紅蘋果"
+        }
+      },
+      {
+        "_index": "eng_chn_keyword",
+        "_type": "page",
+        "_id": "vD4h6DLUTKGEqKRYro0VXw",
+        "_score": 0.643841,
+        "_source": {
+          "english_title": "green apple",
+          "chinese_title": "青蘋果"
+        }
+      }
+    ]
+  }
+}
